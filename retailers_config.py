@@ -10,20 +10,22 @@
   🗑  TO REMOVE → delete its entire { ... } block
 
   SCRAPER TYPES:
-    "shopify" — uses the store's built-in JSON API. Very reliable.
-    "html"    — reads the HTML page. May need selector updates
-                if the site redesigns their pages.
+    "shopify"   — uses the store's built-in JSON API. Very reliable.
+    "html"      — reads the HTML page directly.
 
-  fallback_urls (Shopify only):
-    If the primary search_url returns a 404, the scraper will
-    automatically try each URL in this list until one works.
+  SPECIAL FLAGS:
+    "use_cloudscraper": False  — use regular requests instead of cloudscraper
+                                 (needed for Amazon, which dislikes cloudscraper)
+    "fallback_urls"           — extra collection paths to try if the main one fails
+                                 (the scraper also auto-tries /collections/all as a
+                                  last resort for any Shopify store)
 =================================================================
 """
 
 RETAILERS = [
 
     # ─────────────────────────────────────────────────────────────
-    # JB HI-FI  •  Shopify  •  Fixed: added fallback collection paths
+    # JB HI-FI  •  Shopify  ✅
     # ─────────────────────────────────────────────────────────────
     {
         "id":         "jbhifi",
@@ -36,18 +38,22 @@ RETAILERS = [
             "https://www.jbhifi.com.au/collections/card-games/products.json",
             "https://www.jbhifi.com.au/collections/board-card-games/products.json",
             "https://www.jbhifi.com.au/collections/games/products.json",
+            "https://www.jbhifi.com.au/collections/toys-collectables/products.json",
         ],
         "base_url":   "https://www.jbhifi.com.au/products/",
         "keywords":   ["pokemon"],
     },
 
     # ─────────────────────────────────────────────────────────────
-    # EB GAMES  •  HTML
+    # EB GAMES  •  ⛔ DISABLED
+    # Reason: Uses Akamai Bot Manager — blocks ALL cloud server IPs.
+    # Even cloudscraper cannot bypass this level of protection.
+    # To re-enable if a workaround is found: set "enabled": True
     # ─────────────────────────────────────────────────────────────
     {
         "id":         "ebgames",
         "name":       "EB Games",
-        "enabled":    True,
+        "enabled":    False,
         "type":       "html",
         "search_url": "https://www.ebgames.com.au/search?q=pokemon+trading+card",
         "base_url":   "https://www.ebgames.com.au",
@@ -60,12 +66,13 @@ RETAILERS = [
     },
 
     # ─────────────────────────────────────────────────────────────
-    # TARGET AUSTRALIA  •  HTML
+    # TARGET AUSTRALIA  •  ⛔ DISABLED
+    # Reason: Uses Akamai Bot Manager — blocks ALL cloud server IPs.
     # ─────────────────────────────────────────────────────────────
     {
         "id":         "target",
         "name":       "Target Australia",
-        "enabled":    True,
+        "enabled":    False,
         "type":       "html",
         "search_url": "https://www.target.com.au/search?SearchTerm=pokemon+trading+card",
         "base_url":   "https://www.target.com.au",
@@ -78,12 +85,13 @@ RETAILERS = [
     },
 
     # ─────────────────────────────────────────────────────────────
-    # KMART  •  HTML
+    # KMART  •  ⛔ DISABLED
+    # Reason: Uses Akamai Bot Manager — blocks ALL cloud server IPs.
     # ─────────────────────────────────────────────────────────────
     {
         "id":         "kmart",
         "name":       "Kmart",
-        "enabled":    True,
+        "enabled":    False,
         "type":       "html",
         "search_url": "https://www.kmart.com.au/search?q=pokemon",
         "base_url":   "https://www.kmart.com.au",
@@ -96,12 +104,13 @@ RETAILERS = [
     },
 
     # ─────────────────────────────────────────────────────────────
-    # BIG W  •  HTML  •  Fixed: increased timeout
+    # BIG W  •  ⛔ DISABLED
+    # Reason: Consistently times out — actively blocks all cloud traffic.
     # ─────────────────────────────────────────────────────────────
     {
         "id":         "bigw",
         "name":       "Big W",
-        "enabled":    True,
+        "enabled":    False,
         "type":       "html",
         "search_url": "https://www.bigw.com.au/search?text=pokemon+trading+card",
         "base_url":   "https://www.bigw.com.au",
@@ -114,7 +123,7 @@ RETAILERS = [
     },
 
     # ─────────────────────────────────────────────────────────────
-    # ZING  •  Shopify  •  FIXED: correct domain is zing.com.au
+    # ZING  •  Shopify  ✅
     # ─────────────────────────────────────────────────────────────
     {
         "id":         "zing",
@@ -126,13 +135,14 @@ RETAILERS = [
             "https://www.zing.com.au/collections/trading-card-games/products.json",
             "https://www.zing.com.au/collections/card-games/products.json",
             "https://www.zing.com.au/collections/collectibles/products.json",
+            "https://www.zing.com.au/collections/games/products.json",
         ],
         "base_url":   "https://www.zing.com.au/products/",
         "keywords":   ["pokemon"],
     },
 
     # ─────────────────────────────────────────────────────────────
-    # TOYMATE  •  Shopify  •  FIXED: added fallback collection paths
+    # TOYMATE  •  Shopify  ✅
     # ─────────────────────────────────────────────────────────────
     {
         "id":         "toymate",
@@ -152,15 +162,19 @@ RETAILERS = [
     },
 
     # ─────────────────────────────────────────────────────────────
-    # AMAZON AUSTRALIA  •  HTML  •  Already working ✅
+    # AMAZON AUSTRALIA  •  HTML  ✅
+    # NOTE: use_cloudscraper is False — Amazon works better WITHOUT
+    # cloudscraper. It was finding 37 products before cloudscraper
+    # was introduced and broke it.
     # ─────────────────────────────────────────────────────────────
     {
-        "id":         "amazon",
-        "name":       "Amazon Australia",
-        "enabled":    True,
-        "type":       "html",
-        "search_url": "https://www.amazon.com.au/s?k=pokemon+trading+card+game&rh=n%3A4851267051",
-        "base_url":   "https://www.amazon.com.au",
+        "id":               "amazon",
+        "name":             "Amazon Australia",
+        "enabled":          True,
+        "type":             "html",
+        "use_cloudscraper": False,
+        "search_url":       "https://www.amazon.com.au/s?k=pokemon+trading+card+game&rh=n%3A4851267051",
+        "base_url":         "https://www.amazon.com.au",
         "product_container":             "div[data-component-type='s-search-result']",
         "product_name_selector":         "h2 span",
         "product_price_selector":        "span.a-price-whole",
@@ -170,7 +184,7 @@ RETAILERS = [
     },
 
     # ─────────────────────────────────────────────────────────────
-    # HOBBYKITZ  •  Shopify  •  NEW ✅
+    # HOBBYKITZ  •  Shopify  ✅
     # ─────────────────────────────────────────────────────────────
     {
         "id":         "hobbykitz",
@@ -208,20 +222,21 @@ RETAILERS = [
     #     "keywords":   ["pokemon"],
     # },
     #
-    # --- REGULAR HTML STORE ---
+    # --- HTML STORE ---
     # {
-    #     "id":         "store_id",
-    #     "name":       "Store Name",
-    #     "enabled":    False,
-    #     "type":       "html",
-    #     "search_url": "https://example.com.au/search?q=pokemon",
-    #     "base_url":   "https://example.com.au",
+    #     "id":               "store_id",
+    #     "name":             "Store Name",
+    #     "enabled":          False,
+    #     "type":             "html",
+    #     "use_cloudscraper": True,
+    #     "search_url":       "https://example.com.au/search?q=pokemon",
+    #     "base_url":         "https://example.com.au",
     #     "product_container":             "CSS selector for each product card",
     #     "product_name_selector":         "CSS selector for product name",
     #     "product_price_selector":        "CSS selector for price",
     #     "product_link_selector":         "a",
     #     "product_availability_selector": None,
-    #     "timeout":    30,
+    #     "timeout":          30,
     # },
 
 ]
