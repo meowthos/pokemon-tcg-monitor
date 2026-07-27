@@ -73,13 +73,6 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_mega_zygarde_ex_premium_collection": {
-      "name": "Pokemon Mega Zygarde ex Premium Collection",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_pok\u00e9mon_one_random_psa_graded_and_authenticated_encased_poke": {
       "name": "Pok\u00e9mon One Random PSA Graded and Authenticated Encased Pokemon Card (Perfect for Display)",
       "price": "Price TBA",
@@ -87,15 +80,15 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_card_game_scarlet___violet_expansion_pack_white_flar": {
-      "name": "Pokemon Card Game Scarlet & Violet Expansion Pack White Flare Box (Japanese) - 20 Packs",
+    "amazon_pokemon_mega_zygarde_ex_premium_collection": {
+      "name": "Pokemon Mega Zygarde ex Premium Collection",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_card_game_scarlet___violet_high_class_pack_terastar_": {
-      "name": "Pokemon Card Game Scarlet & Violet High Class Pack TeraStar Festival ex Booster Box",
+    "amazon_pokemon_card_game_scarlet___violet_expansion_pack_white_flar": {
+      "name": "Pokemon Card Game Scarlet & Violet Expansion Pack White Flare Box (Japanese) - 20 Packs",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -145,6 +138,13 @@
     },
     "amazon_pokemon_tcg__scarlet___violet_sets_and_newer__50_cards_in_ea": {
       "name": "Pokemon TCG: Scarlet & Violet Sets and Newer, 50 Cards in Each Lot",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_card_game_scarlet___violet_high_class_pack_terastar_": {
+      "name": "Pokemon Card Game Scarlet & Violet High Class Pack TeraStar Festival ex Booster Box",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -213,15 +213,15 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_the_pokemon_company_international_pokemon_single_card_mew_01": {
-      "name": "The Pokemon Company International Pokemon Single Card MEW 011/025 CELEBRATIONS",
+    "amazon_pokemon_2023_trick_or_trade_mimikyu___pikachu___6_mini_boost": {
+      "name": "Pokemon 2023 Trick or Trade Mimikyu & Pikachu | 6 Mini Booster Packs",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_2023_trick_or_trade_mimikyu___pikachu___6_mini_boost": {
-      "name": "Pokemon 2023 Trick or Trade Mimikyu & Pikachu | 6 Mini Booster Packs",
+    "amazon_the_pokemon_company_international_pokemon_single_card_mew_01": {
+      "name": "The Pokemon Company International Pokemon Single Card MEW 011/025 CELEBRATIONS",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
