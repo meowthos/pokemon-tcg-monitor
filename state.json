@@ -80,15 +80,15 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_mega_evolutions_5_pitch_black_booster": {
-      "name": "Pokemon TCG Mega Evolutions 5 Pitch Black Booster",
+    "amazon_pokemon_tcg_scarlet___violet_8_5_prismatic_evolutions_booste": {
+      "name": "Pokemon TCG Scarlet & Violet 8.5 Prismatic Evolutions Booster Bundle",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_scarlet___violet_8_5_prismatic_evolutions_booste": {
-      "name": "Pokemon TCG Scarlet & Violet 8.5 Prismatic Evolutions Booster Bundle",
+    "amazon_pokemon_tcg_mega_evolutions_5_pitch_black_booster": {
+      "name": "Pokemon TCG Mega Evolutions 5 Pitch Black Booster",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -122,15 +122,15 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_scarlet___violet_8_5_prismatic_evolutions_elite_": {
-      "name": "Pokemon TCG Scarlet & Violet 8.5 Prismatic Evolutions Elite Trainer Box",
+    "amazon_pokemon__100_assorted_card_bundle___with_foils_and_5_ultra_r": {
+      "name": "Pokemon: 100 Assorted Card Bundle - with Foils and 5 Ultra Rare (V, GX, EX) Variety - Official Pokemon TCG Deck Box Included",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon__100_assorted_card_bundle___with_foils_and_5_ultra_r": {
-      "name": "Pokemon: 100 Assorted Card Bundle - with Foils and 5 Ultra Rare (V, GX, EX) Variety - Official Pokemon TCG Deck Box Included",
+    "amazon_pokemon_tcg_scarlet___violet_8_5_prismatic_evolutions_elite_": {
+      "name": "Pokemon TCG Scarlet & Violet 8.5 Prismatic Evolutions Elite Trainer Box",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -185,8 +185,8 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pok\u00e9mon_one_random_psa_graded_and_authenticated_encased_poke": {
-      "name": "Pok\u00e9mon One Random PSA Graded and Authenticated Encased Pokemon Card (Perfect for Display)",
+    "amazon_pokemon_card_game_mega_brave_booster_box__japanese____30_pac": {
+      "name": "Pokemon Card Game Mega Brave Booster Box (Japanese) - 30 Packs",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -199,15 +199,15 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_card_game_mega_brave_booster_box__japanese____30_pac": {
-      "name": "Pokemon Card Game Mega Brave Booster Box (Japanese) - 30 Packs",
+    "amazon_pokemon_tcg_trading_card_game_mega_evolutions_ascended_heroe": {
+      "name": "Pokemon TCG Trading Card Game Mega Evolutions Ascended Heroes 2 Packs, 1 Promo Card and one Coin (Erika's Tangela)",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_trading_card_game_mega_evolutions_ascended_heroe": {
-      "name": "Pokemon TCG Trading Card Game Mega Evolutions Ascended Heroes 2 Packs, 1 Promo Card and one Coin (Erika's Tangela)",
+    "amazon_pok\u00e9mon_one_random_psa_graded_and_authenticated_encased_poke": {
+      "name": "Pok\u00e9mon One Random PSA Graded and Authenticated Encased Pokemon Card (Perfect for Display)",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -271,6 +271,20 @@
     },
     "amazon_pokemon_random_reverse_foil_single_cards__lot_of_25": {
       "name": "Pokemon Random Reverse Foil Single Cards, Lot of 25",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_sword___shield_silver_tempest_single_booster_trading": {
+      "name": "Pokemon Sword & Shield Silver Tempest Single Booster Trading Card Game",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_card_game_scarlet___violet_expansion_pack_white_flar": {
+      "name": "Pokemon Card Game Scarlet & Violet Expansion Pack White Flare Box (Japanese) - 20 Packs",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
