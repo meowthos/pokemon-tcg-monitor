@@ -2,6 +2,238 @@
   "jbhifi": {},
   "zing": {},
   "toymate": {},
-  "amazon": {},
+  "amazon": {
+    "amazon_pokemon_tcg_me2_5_ascended_heroes_elite_trainer_box": {
+      "name": "Pokemon TCG ME2.5 Ascended Heroes Elite Trainer Box",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg_scarlet___violet_10_destined_rivals_booster_bund": {
+      "name": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Booster Bundle",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg_scarlet___violet_10_5_unova_poster_box": {
+      "name": "Pokemon TCG Scarlet & Violet 10.5 Unova Poster Box",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_trading_card_game_mega_battle_deck__mega_diancie_ex_": {
+      "name": "Pokemon Trading Card Game Mega Battle Deck (Mega Diancie ex)",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg___50_card_assorted_lot_from_every_series__50_car": {
+      "name": "Pokemon TCG - 50 Card Assorted Lot from Every Series, 50 Cards + 2 Bonus Foil Cards + 1 Ultra Rare (53 Total)",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___gem_pack_vol_2__all_foil_eevee_set____chinese_simp": {
+      "name": "Pokemon \u2013 Gem Pack Vol.2 (All Foil Eevee Set) \u2013 Chinese Simplified \u2013 Slim Booster Box \u2013 (15 Packs - 4 Cards per Pack) \u2013 Chinese Language",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_ruler_of_the_black_flame_sv3_booster_box___japanese_pokemon_": {
+      "name": "Ruler of the Black Flame SV3 Booster Box - Japanese Pokemon TCG",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_5_pokemon_ultra_rare_card_lot___v__gx__ex__assorted_variety_": {
+      "name": "5 Pokemon Ultra Rare Card Lot - V, Gx, ex, Assorted Variety - No Duplicates",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mega_greninja_ex_022_086___chaos_rising___double_r": {
+      "name": "Pokemon - Mega Greninja ex 022/086 - Chaos Rising - Double Rare - Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___team_rocket_s_mewtwo_ex___081_182___destined_rival": {
+      "name": "Pokemon - Team Rocket's Mewtwo ex - 081/182 - Destined Rivals - Double Rare - Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_21_pokemon_tcg__25th_anniversary_celebrations_collection___c": {
+      "name": "21 Pokemon TCG: 25th Anniversary Celebrations Collection - Charizard V",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg_trainer_league_battle_deck_origin_forme_palkia_v": {
+      "name": "Pokemon TCG Trainer League Battle Deck Origin Forme Palkia VSTAR Assorted Set 6+",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_morpeko_v_union_pokemon_promo_card_set_swsh287_swsh288_swsh2": {
+      "name": "Morpeko V-Union Pokemon Promo Card Set SWSH287 SWSH288 SWSH289 SWSH290 (Crown Zenith) + TitanCards\u00ae Toploader",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_pikachu_v___vmax___swsh285___swsh286___pokemon_black": {
+      "name": "Pokemon Pikachu V & Vmax - SWSH285 - SWSH286 - Pokemon Black Star Promo Card Set - Crown Zenith",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___white_flare___english_sealed_booster_pack___10_car": {
+      "name": "Pokemon \u2013 White Flare \u2013 English Sealed Booster Pack \u2013 10 Cards",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_4_x_different_pikachu_pokemon_cards___german_original_cards": {
+      "name": "4 x Different Pikachu Pokemon Cards - German Original Cards",
+      "price": "22.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mega_venusaur_ex___003_132___me01__mega_evolution_": {
+      "name": "Pokemon - Mega Venusaur ex - 003/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mega_latias_ex___100_132___me01__mega_evolution__m": {
+      "name": "Pokemon - Mega Latias ex - 100/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
+      "price": "12.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_scarlet___violet___paldea_evolved_single_sleeved_boo": {
+      "name": "Pokemon Scarlet & Violet - Paldea Evolved Single Sleeved Booster (One Booster Pack)",
+      "price": "58.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_50_pokemon_cards___rare_gx_ex_or_v_card_starter_pack_with_tr": {
+      "name": "50 Pokemon Cards + Rare GX EX or V Card Starter Pack with Trainers & Energy - German Trading Cards Card Pack in BB-Toy-Trades Shipping Protection",
+      "price": "36.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_asmodee___ultra_pro___pokemon___mega_evolution_fantasy_flame": {
+      "name": "Asmodee - Ultra Pro - Pokemon - Mega Evolution:Fantasy Flames (ME02): Pokemon Trading Card Slot - Capacity 252 Cards - Board Games - Accessories for Trading Cards",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___pikachu_ex_219_191___surging_sparks___full_art_ult": {
+      "name": "Pokemon - Pikachu ex 219/191 - Surging Sparks \u2013 Full Art Ultra Rare \u2013 Foil Card",
+      "price": "156.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mega_gengar_ex___056_094___me02__phantasmal_flames": {
+      "name": "Pokemon - Mega Gengar ex - 056/094 - ME02: Phantasmal Flames (PFL) - Double Rare - Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_starter_collection_50_cards_including_holos___rares_": {
+      "name": "Pokemon Starter Collection 50 Cards Including Holos & Rares in Tin",
+      "price": "45.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___charizard_ex_228_197___obsidian_flames___hyper_rar": {
+      "name": "Pokemon - Charizard ex 228/197 - Obsidian Flames - Hyper Rare - Gold Holo Card",
+      "price": "155.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_ultra_pro_pokemon_meowth_and_starmie_4_pocket_portfolio__the": {
+      "name": "Ultra PRO Pokemon Meowth and Starmie 4-Pocket Portfolio- The Perfect Order, Trading Card Game Collectible Album, Holds 4 Oversized Cards and up to 80 Regular Cards",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_asmodee___ultra_pro___pokemon___mega_evolution__me01____poke": {
+      "name": "Asmodee - Ultra Pro - Pokemon - Mega Evolution (ME01) - Pokemon Trading Card Slot - Capacity 80 Cards - Board Games - Trading Card Accessories",
+      "price": "28.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___eevee_ex_075_131___prismatic_evolutions___double_r": {
+      "name": "Pokemon - Eevee ex 075/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
+      "price": "56.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mewtwo__51_108____xy_evolutions": {
+      "name": "Pokemon - Mewtwo (51/108) - XY Evolutions",
+      "price": "44.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_mewtwo_vstar_031_078___pokemon_go___ultra_rare_card": {
+      "name": "Mewtwo Vstar 031/078 - Pokemon Go - Ultra Rare Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___umbreon_ex_060_131___prismatic_evolutions___double": {
+      "name": "Pokemon - Umbreon ex 060/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
+      "price": "46.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_lot_40__1st_generation_cards__base__jungle__fossil__": {
+      "name": "Pokemon Lot 40: 1st Generation Cards (Base, Jungle, Fossil, Team Rocket) - Common and Uncommon - Excellent Condition",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_machamp_v_072_189_ultra_rare_pokemon_card__swsh_astral_radia": {
+      "name": "Machamp V 072/189 Ultra Rare Pokemon Card (SWSH Astral Radiance) + TitanCards\u00ae Toploader",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    }
+  },
   "hobbykitz": {}
 }
