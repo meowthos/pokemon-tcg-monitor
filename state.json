@@ -52,58 +52,9 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_50_pokemon_cards___rare_gx_ex_or_v_card_starter_pack_with_tr": {
-      "name": "50 Pokemon Cards + Rare GX EX or V Card Starter Pack with Trainers & Energy - German Trading Cards Card Pack in BB-Toy-Trades Shipping Protection",
-      "price": "36.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_pokemon___team_rocket_s_mewtwo_ex___081_182___destined_rival": {
       "name": "Pokemon - Team Rocket's Mewtwo ex - 081/182 - Destined Rivals - Double Rare - Single Card",
       "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_4_x_different_pikachu_pokemon_cards___german_original_cards": {
-      "name": "4 x Different Pikachu Pokemon Cards - German Original Cards",
-      "price": "22.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon_deluxe_character_guide__the_100__official_ultimate_c": {
-      "name": "Pokemon Deluxe Character Guide: The 100% Official ultimate character guide to every Pok\u00e9mon ever discovered. For Pok\u00e9mon fans of all ages.",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___mewtwo__51_108____xy_evolutions": {
-      "name": "Pokemon - Mewtwo (51/108) - XY Evolutions",
-      "price": "48.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_mewtwo_vstar_031_078___pokemon_go___ultra_rare_card": {
-      "name": "Mewtwo Vstar 031/078 - Pokemon Go - Ultra Rare Card",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon_starter_collection_50_cards_including_holos___rares_": {
-      "name": "Pokemon Starter Collection 50 Cards Including Holos & Rares in Tin",
-      "price": "44.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon_scarlet___violet___paldea_evolved_single_sleeved_boo": {
-      "name": "Pokemon Scarlet & Violet - Paldea Evolved Single Sleeved Booster (One Booster Pack)",
-      "price": "58.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -115,8 +66,113 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___mega_venusaur_ex___003_132___me01__mega_evolution_": {
-      "name": "Pokemon - Mega Venusaur ex - 003/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
+    "amazon_mewtwo_vstar_031_078___pokemon_go___ultra_rare_card": {
+      "name": "Mewtwo Vstar 031/078 - Pokemon Go - Ultra Rare Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_30th_anniversary_first_partner_card_set_vol__2__chin": {
+      "name": "Pokemon 30th Anniversary First Partner Card Set Vol. 2 (Chinese)",
+      "price": "46.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_4_x_different_pikachu_pokemon_cards___german_original_cards": {
+      "name": "4 x Different Pikachu Pokemon Cards - German Original Cards",
+      "price": "22.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_50_pokemon_cards___rare_gx_ex_or_v_card_starter_pack_with_tr": {
+      "name": "50 Pokemon Cards + Rare GX EX or V Card Starter Pack with Trainers & Energy - German Trading Cards Card Pack in BB-Toy-Trades Shipping Protection",
+      "price": "36.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_scarlet___violet___paldea_evolved_single_sleeved_boo": {
+      "name": "Pokemon Scarlet & Violet - Paldea Evolved Single Sleeved Booster (One Booster Pack)",
+      "price": "58.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_starter_collection_50_cards_including_holos___rares_": {
+      "name": "Pokemon Starter Collection 50 Cards Including Holos & Rares in Tin",
+      "price": "44.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mewtwo__51_108____xy_evolutions": {
+      "name": "Pokemon - Mewtwo (51/108) - XY Evolutions",
+      "price": "48.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_crimson_haze_sv5a_korean_booster_box": {
+      "name": "Pokemon Crimson Haze sv5a Korean Booster Box",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___sylveon_ex_086_191___surging_sparks___tera_double_": {
+      "name": "Pokemon - Sylveon ex 086/191 - Surging Sparks \u2013 Tera Double Rare \u2013 Foil Single Card",
+      "price": "40.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___greninja_star___swsh144___celebrations_25th_annive": {
+      "name": "Pokemon - Greninja Star - SWSH144 - Celebrations 25th Anniversary Promo",
+      "price": "131.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_deluxe_character_guide__the_100__official_ultimate_c": {
+      "name": "Pokemon Deluxe Character Guide: The 100% Official ultimate character guide to every Pok\u00e9mon ever discovered. For Pok\u00e9mon fans of all ages.",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___greninja_ex_special_illustration___full_art_holo_f": {
+      "name": "Pokemon - Greninja ex Special Illustration - Full Art Holo Foil Card - Scarlet & Violet Black Star Promo SVP132",
+      "price": "290.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___espeon_034_131___prismatic_evolutions___double_rar": {
+      "name": "Pokemon - Espeon 034/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
+      "price": "34.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___eevee_ex_075_131___prismatic_evolutions___double_r": {
+      "name": "Pokemon - Eevee ex 075/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
+      "price": "56.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mew_ex_193_165___pokemon_151___full_art_ultra_rare": {
+      "name": "Pokemon - Mew ex 193/165 - Pokemon 151 - Full Art Ultra Rare - Single Card",
+      "price": "187.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mega_charizard_x_ex___013_094___me02__phantasmal_f": {
+      "name": "Pokemon - Mega Charizard X ex - 013/094 - ME02: Phantasmal Flames (PFL) - Double Rare - Single Card",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -129,37 +185,9 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___eevee_ex_075_131___prismatic_evolutions___double_r": {
-      "name": "Pokemon - Eevee ex 075/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
-      "price": "56.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___sylveon_ex_086_191___surging_sparks___tera_double_": {
-      "name": "Pokemon - Sylveon ex 086/191 - Surging Sparks \u2013 Tera Double Rare \u2013 Foil Single Card",
-      "price": "40.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___mega_gengar_ex___056_094___me02__phantasmal_flames": {
-      "name": "Pokemon - Mega Gengar ex - 056/094 - ME02: Phantasmal Flames (PFL) - Double Rare - Single Card",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_pokemon___pikachu_ex_063_193___paldea_evolved_double_rare": {
       "name": "Pokemon - Pikachu ex 063/193 - Paldea Evolved Double Rare",
       "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___umbreon_ex_060_131___prismatic_evolutions___double": {
-      "name": "Pokemon - Umbreon ex 060/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
-      "price": "44.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -171,37 +199,16 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_nintendo_50_pokemon_energy_cards_random_lot_of_cards": {
-      "name": "Nintendo 50 Pokemon Energy Cards Random Lot Of Cards",
-      "price": "Price TBA",
+    "amazon_pokemon___umbreon_ex_060_131___prismatic_evolutions___double": {
+      "name": "Pokemon - Umbreon ex 060/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
+      "price": "44.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___espeon_034_131___prismatic_evolutions___double_rar": {
-      "name": "Pokemon - Espeon 034/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
-      "price": "34.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___iron_valiant_ex_261_182___paradox_rift___hyper_rar": {
-      "name": "Pokemon - Iron Valiant ex 261/182 - Paradox Rift - Hyper Rare - Gold Foil - Single Card",
-      "price": "39.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_raichu_026_165___pikachu__pokemon_151___evolution_holo_rare_": {
-      "name": "Raichu 026/165 - Pikachu- Pokemon 151 - Evolution Holo Rare 2 Card Lot",
-      "price": "32.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___arceus_vstar_184_172___brilliant_stars___secret_ra": {
-      "name": "Pokemon \u2013 Arceus Vstar 184/172 \u2013 Brilliant Stars \u2013 Secret Rare \u2013 Gold Holo - Single Card",
-      "price": "84.",
+    "amazon_greninja_v_union___pokemon_4_card_set___black_star_promo___s": {
+      "name": "Greninja V-Union - Pokemon 4 Card Set - Black Star Promo - SWSH155 - SWSH156 - SWSH157 - SWSH158",
+      "price": "139.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
