@@ -122,6 +122,13 @@
       "in_stock": true,
       "is_preorder": false
     },
+    "amazon_pokemon___greninja_ex_special_illustration___full_art_holo_f": {
+      "name": "Pokemon - Greninja ex Special Illustration - Full Art Holo Foil Card - Scarlet & Violet Black Star Promo SVP132",
+      "price": "290.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
     "amazon_nintendo_50_pokemon_energy_cards_random_lot_of_cards": {
       "name": "Nintendo 50 Pokemon Energy Cards Random Lot Of Cards",
       "price": "Price TBA",
@@ -136,30 +143,9 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___greninja_ex_special_illustration___full_art_holo_f": {
-      "name": "Pokemon - Greninja ex Special Illustration - Full Art Holo Foil Card - Scarlet & Violet Black Star Promo SVP132",
-      "price": "290.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_pokemon___charizard_ex_183_165___pokemon_151___full_art_ultr": {
       "name": "Pokemon - Charizard ex 183/165 - Pokemon 151 - Full Art Ultra Rare - Single Card",
       "price": "203.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_maushold_161_198___scarlet___violet___pokemon_evolution_3_ca": {
-      "name": "Maushold 161/198 - Scarlet & Violet - Pokemon Evolution 3 Card Set - Tandemaus",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___beach_court_263_182___paradox_rift___hyper_rare___": {
-      "name": "Pokemon - Beach Court 263/182 - Paradox Rift - Hyper Rare - Gold Foil - Single Card",
-      "price": "38.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -178,6 +164,13 @@
       "in_stock": true,
       "is_preorder": false
     },
+    "amazon_maushold_161_198___scarlet___violet___pokemon_evolution_3_ca": {
+      "name": "Maushold 161/198 - Scarlet & Violet - Pokemon Evolution 3 Card Set - Tandemaus",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
     "amazon_pokemon___greninja_star___swsh144___celebrations_25th_annive": {
       "name": "Pokemon - Greninja Star - SWSH144 - Celebrations 25th Anniversary Promo",
       "price": "131.",
@@ -185,23 +178,16 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_raichu_026_165___pikachu__pokemon_151___evolution_holo_rare_": {
-      "name": "Raichu 026/165 - Pikachu- Pokemon 151 - Evolution Holo Rare 2 Card Lot",
-      "price": "32.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___mega_venusaur_ex___003_132___me01__mega_evolution_": {
-      "name": "Pokemon - Mega Venusaur ex - 003/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_pokemon_go_sealed_single_booster_pack___english__10_cards_": {
       "name": "Pokemon Go Sealed Single Booster Pack - English (10 Cards)",
-      "price": "45.",
+      "price": "44.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_crimson_haze_sv5a_korean_booster_box": {
+      "name": "Pokemon Crimson Haze sv5a Korean Booster Box",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -213,6 +199,20 @@
       "in_stock": true,
       "is_preorder": false
     },
+    "amazon_raichu_026_165___pikachu__pokemon_151___evolution_holo_rare_": {
+      "name": "Raichu 026/165 - Pikachu- Pokemon 151 - Evolution Holo Rare 2 Card Lot",
+      "price": "32.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___tulip_259_182___paradox_rift___special_illustratio": {
+      "name": "Pokemon - Tulip 259/182 - Paradox Rift - Special Illustration Rare - Single Card",
+      "price": "46.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
     "amazon_jolteon_flareon_vaporeon_135_165___eevee___pokemon_151___evo": {
       "name": "Jolteon Flareon Vaporeon 135/165 - Eevee - Pokemon 151 - Evolution 4 Card Lot - Holo Rare",
       "price": "34.",
@@ -220,8 +220,8 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_crimson_haze_sv5a_korean_booster_box": {
-      "name": "Pokemon Crimson Haze sv5a Korean Booster Box",
+    "amazon_pokemon___mega_venusaur_ex___003_132___me01__mega_evolution_": {
+      "name": "Pokemon - Mega Venusaur ex - 003/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
