@@ -47,7 +47,7 @@
     },
     "amazon_pokemon_30th_anniversary_first_partner_card_set_vol__2__chin": {
       "name": "Pokemon 30th Anniversary First Partner Card Set Vol. 2 (Chinese)",
-      "price": "46.",
+      "price": "45.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -87,8 +87,15 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_maushold_161_198___scarlet___violet___pokemon_evolution_3_ca": {
-      "name": "Maushold 161/198 - Scarlet & Violet - Pokemon Evolution 3 Card Set - Tandemaus",
+    "amazon_pokemon___charizard_ex_228_197___obsidian_flames___hyper_rar": {
+      "name": "Pokemon - Charizard ex 228/197 - Obsidian Flames - Hyper Rare - Gold Holo Card",
+      "price": "153.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_ruler_of_the_black_flame_sv3_booster_box___japanese_pokemon_": {
+      "name": "Ruler of the Black Flame SV3 Booster Box - Japanese Pokemon TCG",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -101,37 +108,9 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___charizard_ex_228_197___obsidian_flames___hyper_rar": {
-      "name": "Pokemon - Charizard ex 228/197 - Obsidian Flames - Hyper Rare - Gold Holo Card",
-      "price": "153.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_asmodee___ultra_pro___pokemon___mega_evolution__me01____poke": {
-      "name": "Asmodee - Ultra Pro - Pokemon - Mega Evolution (ME01) - Pokemon Trading Card Slot - Capacity 80 Cards - Board Games - Trading Card Accessories",
-      "price": "28.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_pokemon___mega_charizard_x_ex___013_094___me02__phantasmal_f": {
       "name": "Pokemon - Mega Charizard X ex - 013/094 - ME02: Phantasmal Flames (PFL) - Double Rare - Single Card",
       "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_ruler_of_the_black_flame_sv3_booster_box___japanese_pokemon_": {
-      "name": "Ruler of the Black Flame SV3 Booster Box - Japanese Pokemon TCG",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pok\u00e9mon__1_pack__pokemon_card_game_japanese_25th_anniversary": {
-      "name": "Pok\u00e9mon (1 Pack) Pokemon Card Game Japanese 25th Anniversary Collection S8a Booster Pack (5 Cards Enclosed)",
-      "price": "101.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -143,16 +122,16 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_raichu_026_165___pikachu__pokemon_151___evolution_holo_rare_": {
-      "name": "Raichu 026/165 - Pikachu- Pokemon 151 - Evolution Holo Rare 2 Card Lot",
-      "price": "32.",
+    "amazon_pokemon___arceus_vstar_184_172___brilliant_stars___secret_ra": {
+      "name": "Pokemon \u2013 Arceus Vstar 184/172 \u2013 Brilliant Stars \u2013 Secret Rare \u2013 Gold Holo - Single Card",
+      "price": "84.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___arceus_vstar_184_172___brilliant_stars___secret_ra": {
-      "name": "Pokemon \u2013 Arceus Vstar 184/172 \u2013 Brilliant Stars \u2013 Secret Rare \u2013 Gold Holo - Single Card",
-      "price": "84.",
+    "amazon_pok\u00e9mon__1_pack__pokemon_card_game_japanese_25th_anniversary": {
+      "name": "Pok\u00e9mon (1 Pack) Pokemon Card Game Japanese 25th Anniversary Collection S8a Booster Pack (5 Cards Enclosed)",
+      "price": "101.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -164,6 +143,20 @@
       "in_stock": true,
       "is_preorder": false
     },
+    "amazon_100_card_set___pokemon_cards_german___original_pokemon_tradi": {
+      "name": "100 Card Set - Pokemon Cards German - Original Pokemon Trading Cards Including 12 Holo/Reverse Holo + 100 Card Sleeves - No Duplicates - Trading Cards Gift Box - Children & Collectors",
+      "price": "38.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_raichu_026_165___pikachu__pokemon_151___evolution_holo_rare_": {
+      "name": "Raichu 026/165 - Pikachu- Pokemon 151 - Evolution Holo Rare 2 Card Lot",
+      "price": "32.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
     "amazon_pokemon___cinderace_ex_svp_163___gold_full_art___terapagos_u": {
       "name": "Pokemon - Cinderace ex SVP 163 - Gold Full Art - Terapagos Ultra Premium Collection Promo Card \u2013 Exclusive",
       "price": "45.",
@@ -171,9 +164,16 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_100_card_set___pokemon_cards_german___original_pokemon_tradi": {
-      "name": "100 Card Set - Pokemon Cards German - Original Pokemon Trading Cards Including 12 Holo/Reverse Holo + 100 Card Sleeves - No Duplicates - Trading Cards Gift Box - Children & Collectors",
-      "price": "38.",
+    "amazon_pokemon___gengar___tg06___trainer_gallery___lost_origin___fu": {
+      "name": "Pokemon - Gengar - TG06 - Trainer Gallery - Lost Origin - Full Art Holo Foil Card",
+      "price": "198.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_asmodee___ultra_pro___pokemon___mega_evolution__me01____poke": {
+      "name": "Asmodee - Ultra Pro - Pokemon - Mega Evolution (ME01) - Pokemon Trading Card Slot - Capacity 80 Cards - Board Games - Trading Card Accessories",
+      "price": "28.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -192,13 +192,6 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_charizard_card_010_078_pokemon_go_laminated_evolution_cards_": {
-      "name": "Charizard Card 010/078 Pokemon Go Laminated Evolution Cards Charmeleon Charmander",
-      "price": "42.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_pokemon___mega_gardevoir_ex___159_132___me01__mega_evolution": {
       "name": "Pokemon - Mega Gardevoir ex - 159/132 - ME01: Mega Evolution (MEG) - Ultra Rare - Full Art - Single Card",
       "price": "51.",
@@ -206,9 +199,23 @@
       "in_stock": true,
       "is_preorder": false
     },
+    "amazon_charizard_card_010_078_pokemon_go_laminated_evolution_cards_": {
+      "name": "Charizard Card 010/078 Pokemon Go Laminated Evolution Cards Charmeleon Charmander",
+      "price": "42.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
     "amazon_umbreon_gx___142_149___full_art_ultra_rare___pokemon_sun___m": {
       "name": "Umbreon-GX - 142/149 - Full Art Ultra Rare - Pokemon Sun & Moon",
       "price": "229.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_venusaur_003_078___pokemon_go___foil___evolution_card_lot___": {
+      "name": "Venusaur 003/078 - Pokemon Go - Foil - Evolution Card Lot - Ivysaur Bulbasaur",
+      "price": "37.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -244,13 +251,6 @@
     "amazon_pokemon___reshiram_113_114___celebrations_classic_collection": {
       "name": "Pokemon - Reshiram 113/114 - Celebrations Classic Collection",
       "price": "84.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___charizard_v_018_159___crown_zenith___ultra_rare_ca": {
-      "name": "Pokemon - Charizard V 018/159 - Crown Zenith - Ultra Rare Card",
-      "price": "44.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
