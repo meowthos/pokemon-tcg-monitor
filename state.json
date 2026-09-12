@@ -2,6 +2,189 @@
   "jbhifi": {},
   "zing": {},
   "toymate": {},
-  "amazon": {},
+  "amazon": {
+    "amazon_pokemon_tcg_30th_celebration_ex_box": {
+      "name": "Pokemon TCG 30th Celebration ex Box",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_5_pokemon_ultra_rare_card_lot___v__gx__ex__assorted_variety_": {
+      "name": "5 Pokemon Ultra Rare Card Lot - V, Gx, ex, Assorted Variety - No Duplicates",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_5_pokemon___mega_evolution_ex_ultra_rare_card_lot___assorted": {
+      "name": "5 Pokemon - Mega Evolution ex Ultra Rare Card Lot - Assorted Variety - No Duplicates",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___team_rocket_s_mewtwo_ex___081_182___destined_rival": {
+      "name": "Pokemon - Team Rocket's Mewtwo ex - 081/182 - Destined Rivals - Double Rare - Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_30th_anniversary_first_partner_card_set_vol__2__chin": {
+      "name": "Pokemon 30th Anniversary First Partner Card Set Vol. 2 (Chinese)",
+      "price": "45.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_200_card_set___pokemon_cards_german___original_pokemon_tradi": {
+      "name": "200 Card Set - Pokemon Cards German - Original Pokemon Trading Cards Including 25 Holo/Reverse Holo + 100 Card Sleeves - TCG Bundle - Trading Cards Gift Box - Children & Collectors",
+      "price": "61.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_100_card_set___pokemon_cards_german___original_pokemon_tradi": {
+      "name": "100 Card Set - Pokemon Cards German - Original Pokemon Trading Cards Including 12 Holo/Reverse Holo + 100 Card Sleeves - No Duplicates - Trading Cards Gift Box - Children & Collectors",
+      "price": "38.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_asmodee___ultra_pro___pokemon___mega_evolution__me01____poke": {
+      "name": "Asmodee - Ultra Pro - Pokemon - Mega Evolution (ME01) - Pokemon Trading Card Slot - Capacity 80 Cards - Board Games - Trading Card Accessories",
+      "price": "28.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_mewtwo_vstar_031_078___pokemon_go___ultra_rare_card": {
+      "name": "Mewtwo Vstar 031/078 - Pokemon Go - Ultra Rare Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mega_venusaur_ex___003_132___me01__mega_evolution_": {
+      "name": "Pokemon - Mega Venusaur ex - 003/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_nintendo_50_pokemon_energy_cards_random_lot_of_cards": {
+      "name": "Nintendo 50 Pokemon Energy Cards Random Lot Of Cards",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_deluxe_character_guide__the_100__official_ultimate_c": {
+      "name": "Pokemon Deluxe Character Guide: The 100% Official ultimate character guide to every Pok\u00e9mon ever discovered. For Pok\u00e9mon fans of all ages.",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_50_pokemon_cards___rare_gx_ex_or_v_card_starter_pack_with_tr": {
+      "name": "50 Pokemon Cards + Rare GX EX or V Card Starter Pack with Trainers & Energy - German Trading Cards Card Pack in BB-Toy-Trades Shipping Protection",
+      "price": "36.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_4_x_different_pikachu_pokemon_cards___german_original_cards": {
+      "name": "4 x Different Pikachu Pokemon Cards - German Original Cards",
+      "price": "18.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_20_holo_cards_for_pokemon___trading_card_set_german___20_dif": {
+      "name": "20 Holo Cards for Pokemon - Trading Card Set German - 20 Different Holo Cards with Gift Box - Compatible with Pokemon Cards",
+      "price": "31.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mimikyu_ex_069_159___journey_together___double_rar": {
+      "name": "Pokemon - Mimikyu ex 069/159 \u2013 Journey Together \u2013 Double Rare \u2013 Foil Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_ruler_of_the_black_flame_sv3_booster_box___japanese_pokemon_": {
+      "name": "Ruler of the Black Flame SV3 Booster Box - Japanese Pokemon TCG",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___roaring_moon_ex_262_182___paradox_rift___hyper_rar": {
+      "name": "Pokemon - Roaring Moon ex 262/182 - Paradox Rift - Hyper Rare - Gold Foil - Single Card",
+      "price": "47.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pok\u00e9mon__1_pack__pokemon_card_game_japanese_25th_anniversary": {
+      "name": "Pok\u00e9mon (1 Pack) Pokemon Card Game Japanese 25th Anniversary Collection S8a Booster Pack (5 Cards Enclosed)",
+      "price": "100.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___umbreon_ex_060_131___prismatic_evolutions___double": {
+      "name": "Pokemon - Umbreon ex 060/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
+      "price": "44.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___eevee_ex_075_131___prismatic_evolutions___double_r": {
+      "name": "Pokemon - Eevee ex 075/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
+      "price": "55.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_an_unofficial_guide_to_the_pokemon_trading_card_game": {
+      "name": "An Unofficial Guide To The Pokemon Trading Card Game",
+      "price": "0.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mega_latias_ex___100_132___me01__mega_evolution__m": {
+      "name": "Pokemon - Mega Latias ex - 100/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___pikachu_ex_219_191___surging_sparks___full_art_ult": {
+      "name": "Pokemon - Pikachu ex 219/191 - Surging Sparks \u2013 Full Art Ultra Rare \u2013 Foil Card",
+      "price": "153.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mega_charizard_x_ex___013_094___me02__phantasmal_f": {
+      "name": "Pokemon - Mega Charizard X ex - 013/094 - ME02: Phantasmal Flames (PFL) - Double Rare - Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_mcdonald_s_2025_booster_pack_promotional_collection": {
+      "name": "Pokemon McDonald's 2025 Booster Pack Promotional Collection",
+      "price": "62.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    }
+  },
   "hobbykitz": {}
 }
