@@ -19,7 +19,7 @@
     },
     "amazon_pokemon_chasing_glory_csv10c_jumbo_display_chinese": {
       "name": "Pokemon Chasing Glory CSV10C Jumbo Display Chinese",
-      "price": "122.",
+      "price": "123.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -59,9 +59,9 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___mega_venusaur_ex___003_132___me01__mega_evolution_": {
-      "name": "Pokemon - Mega Venusaur ex - 003/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
-      "price": "Price TBA",
+    "amazon_asmodee___ultra_pro___pokemon___mega_evolution__me01____poke": {
+      "name": "Asmodee - Ultra Pro - Pokemon - Mega Evolution (ME01) - Pokemon Trading Card Slot - Capacity 80 Cards - Board Games - Trading Card Accessories",
+      "price": "28.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -73,16 +73,16 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_asmodee___ultra_pro___pokemon___mega_evolution__me01____poke": {
-      "name": "Asmodee - Ultra Pro - Pokemon - Mega Evolution (ME01) - Pokemon Trading Card Slot - Capacity 80 Cards - Board Games - Trading Card Accessories",
-      "price": "28.",
+    "amazon_pokemon___reshiram_ex___158_086___sv__white_flare__wht____ul": {
+      "name": "Pokemon - Reshiram ex - 158/086 - SV: White Flare (WHT) - Ultra Rare - Full Art - Single Card",
+      "price": "37.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___reshiram_ex___158_086___sv__white_flare__wht____ul": {
-      "name": "Pokemon - Reshiram ex - 158/086 - SV: White Flare (WHT) - Ultra Rare - Full Art - Single Card",
-      "price": "37.",
+    "amazon_pokemon___mega_venusaur_ex___003_132___me01__mega_evolution_": {
+      "name": "Pokemon - Mega Venusaur ex - 003/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -97,13 +97,6 @@
     "amazon_50_pokemon_cards___rare_gx_ex_or_v_card_starter_pack_with_tr": {
       "name": "50 Pokemon Cards + Rare GX EX or V Card Starter Pack with Trainers & Energy - German Trading Cards Card Pack in BB-Toy-Trades Shipping Protection",
       "price": "29.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_50_pokemon_cards_trading_card_pack___rare_gx_ex_or_v_card___": {
-      "name": "50 Pokemon Cards Trading Card Pack + Rare GX EX or V Card - No - German Trading Cards Card Pack Compatible with Pokemon",
-      "price": "31.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -150,20 +143,6 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___gengar___tg06___trainer_gallery___lost_origin___fu": {
-      "name": "Pokemon - Gengar - TG06 - Trainer Gallery - Lost Origin - Full Art Holo Foil Card",
-      "price": "198.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___mewtwo_ex_058_182___paradox_rift___tera_double_rar": {
-      "name": "Pokemon - Mewtwo ex 058/182 - Paradox Rift - Tera Double Rare - Single Card",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_mewtwo_vstar_031_078___pokemon_go___ultra_rare_card": {
       "name": "Mewtwo Vstar 031/078 - Pokemon Go - Ultra Rare Card",
       "price": "Price TBA",
@@ -171,9 +150,23 @@
       "in_stock": true,
       "is_preorder": false
     },
+    "amazon_pokemon___gengar___tg06___trainer_gallery___lost_origin___fu": {
+      "name": "Pokemon - Gengar - TG06 - Trainer Gallery - Lost Origin - Full Art Holo Foil Card",
+      "price": "198.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
     "amazon_raichu_026_165___pikachu__pokemon_151___evolution_holo_rare_": {
       "name": "Raichu 026/165 - Pikachu- Pokemon 151 - Evolution Holo Rare 2 Card Lot",
       "price": "32.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___mewtwo_ex_058_182___paradox_rift___tera_double_rar": {
+      "name": "Pokemon - Mewtwo ex 058/182 - Paradox Rift - Tera Double Rare - Single Card",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -244,6 +237,20 @@
     "amazon_pokemon___glaceon_ex_026_131___prismatic_evolutions___double": {
       "name": "Pokemon - Glaceon ex 026/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
       "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___reshiram_ex_030_159___journey_together___double_ra": {
+      "name": "Pokemon - Reshiram ex 030/159 \u2013 Journey Together \u2013 Double Rare \u2013 Foil Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_charizard_card_010_078_pokemon_go_laminated_evolution_cards_": {
+      "name": "Charizard Card 010/078 Pokemon Go Laminated Evolution Cards Charmeleon Charmander",
+      "price": "42.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
