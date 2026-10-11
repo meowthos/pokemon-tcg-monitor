@@ -40,7 +40,7 @@
     },
     "amazon_raichu_026_165___pikachu__pokemon_151___evolution_holo_rare_": {
       "name": "Raichu 026/165 - Pikachu- Pokemon 151 - Evolution Holo Rare 2 Card Lot",
-      "price": "32.",
+      "price": "31.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -48,13 +48,6 @@
     "amazon_50_pokemon_cards___rare_gx_ex_or_v_card_starter_pack_with_tr": {
       "name": "50 Pokemon Cards + Rare GX EX or V Card Starter Pack with Trainers & Energy - German Trading Cards Card Pack in BB-Toy-Trades Shipping Protection",
       "price": "37.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_101_pokemon_cards_english___10_holo___reverse_holo___90_comm": {
-      "name": "101 Pokemon Cards English - 10 Holo & Reverse Holo + 90 Common and Uncommon + 1 Guaranteed Ultra Rare EX Gold V - Authentic Original Cards - Random Bulk Set for Collectors and Gift",
-      "price": "44.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -101,6 +94,13 @@
       "in_stock": true,
       "is_preorder": false
     },
+    "amazon_pokemon___mega_venusaur_ex___003_132___me01__mega_evolution_": {
+      "name": "Pokemon - Mega Venusaur ex - 003/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
     "amazon_nintendo_50_pokemon_energy_cards_random_lot_of_cards": {
       "name": "Nintendo 50 Pokemon Energy Cards Random Lot Of Cards",
       "price": "23.",
@@ -115,8 +115,8 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___mega_venusaur_ex___003_132___me01__mega_evolution_": {
-      "name": "Pokemon - Mega Venusaur ex - 003/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
+    "amazon_venusaur_ex_003_165___pokemon_151___double_rare___evolution_": {
+      "name": "Venusaur ex 003/165 - Pokemon 151 - Double Rare - Evolution 3 Card Set - Charmander Charmeleon",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -129,22 +129,15 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_venusaur_ex_003_165___pokemon_151___double_rare___evolution_": {
-      "name": "Venusaur ex 003/165 - Pokemon 151 - Double Rare - Evolution 3 Card Set - Charmander Charmeleon",
-      "price": "Price TBA",
+    "amazon_50_pokemon_cards_trading_card_pack___rare_gx_ex_or_v_card___": {
+      "name": "50 Pokemon Cards Trading Card Pack + Rare GX EX or V Card - No - German Trading Cards Card Pack Compatible with Pokemon",
+      "price": "31.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_gengar_094_165___haunter_gastly___pokemon_151___evolution_ca": {
       "name": "Gengar 094/165 - Haunter Gastly - Pokemon 151 - Evolution Card Set - Holo Rare",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___mega_latias_ex___100_132___me01__mega_evolution__m": {
-      "name": "Pokemon - Mega Latias ex - 100/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -157,9 +150,9 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_200_card_set___pokemon_cards_german___original_pokemon_tradi": {
-      "name": "200 Card Set - Pokemon Cards German - Original Pokemon Trading Cards Including 25 Holo/Reverse Holo + 100 Card Sleeves - TCG Bundle - Trading Cards Gift Box - Children & Collectors",
-      "price": "61.",
+    "amazon_pokemon___mega_latias_ex___100_132___me01__mega_evolution__m": {
+      "name": "Pokemon - Mega Latias ex - 100/132 - ME01: Mega Evolution (MEG) - Double Rare - Single Card",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -167,6 +160,20 @@
     "amazon_mewtwo_vstar_031_078___pokemon_go___ultra_rare_card": {
       "name": "Mewtwo Vstar 031/078 - Pokemon Go - Ultra Rare Card",
       "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_200_card_set___pokemon_cards_german___original_pokemon_tradi": {
+      "name": "200 Card Set - Pokemon Cards German - Original Pokemon Trading Cards Including 25 Holo/Reverse Holo + 100 Card Sleeves - TCG Bundle - Trading Cards Gift Box - Children & Collectors",
+      "price": "61.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___eevee_ex_075_131___prismatic_evolutions___double_r": {
+      "name": "Pokemon - Eevee ex 075/131 \u2013 Prismatic Evolutions \u2013 Double Rare \u2013 Foil Single Card",
+      "price": "51.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -185,16 +192,9 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_100_card_set___pokemon_cards_german___original_pokemon_tradi": {
-      "name": "100 Card Set - Pokemon Cards German - Original Pokemon Trading Cards Including 12 Holo/Reverse Holo + 100 Card Sleeves - No Duplicates - Trading Cards Gift Box - Children & Collectors",
-      "price": "38.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_20_holo_cards_for_pokemon___trading_card_set_german___20_dif": {
-      "name": "20 Holo Cards for Pokemon - Trading Card Set German - 20 Different Holo Cards with Gift Box - Compatible with Pokemon Cards",
-      "price": "30.",
+    "amazon_pokemon___aerodactyl_vstar_199_196_lost_origin_secret_rainbo": {
+      "name": "Pokemon - Aerodactyl VStar 199/196 Lost Origin Secret Rainbow Rare Foil",
+      "price": "61.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -213,9 +213,16 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___aerodactyl_vstar_199_196_lost_origin_secret_rainbo": {
-      "name": "Pokemon - Aerodactyl VStar 199/196 Lost Origin Secret Rainbow Rare Foil",
-      "price": "61.",
+    "amazon_charizard_card_010_078_pokemon_go_laminated_evolution_cards_": {
+      "name": "Charizard Card 010/078 Pokemon Go Laminated Evolution Cards Charmeleon Charmander",
+      "price": "46.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_100_card_set___pokemon_cards_german___original_pokemon_tradi": {
+      "name": "100 Card Set - Pokemon Cards German - Original Pokemon Trading Cards Including 12 Holo/Reverse Holo + 100 Card Sleeves - No Duplicates - Trading Cards Gift Box - Children & Collectors",
+      "price": "38.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -227,16 +234,9 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_charizard_card_010_078_pokemon_go_laminated_evolution_cards_": {
-      "name": "Charizard Card 010/078 Pokemon Go Laminated Evolution Cards Charmeleon Charmander",
-      "price": "46.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_zacian_vstar_pokemon_trading_card_swsh_crown_zenith_096_159_": {
-      "name": "Zacian VSTAR Pokemon Trading Card SWSH Crown Zenith 096/159 Rare VSTAR",
-      "price": "39.",
+    "amazon_20_holo_cards_for_pokemon___trading_card_set_german___20_dif": {
+      "name": "20 Holo Cards for Pokemon - Trading Card Set German - 20 Different Holo Cards with Gift Box - Compatible with Pokemon Cards",
+      "price": "30.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -244,6 +244,13 @@
     "amazon_pokemon___gengar___tg06___trainer_gallery___lost_origin___fu": {
       "name": "Pokemon - Gengar - TG06 - Trainer Gallery - Lost Origin - Full Art Holo Foil Card",
       "price": "198.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pok\u00e9mon_charizard_gx___sm211___hidden_fates___pokemon_black_": {
+      "name": "Pok\u00e9mon Charizard GX - SM211 - Hidden Fates - Pokemon Black Star Promo - Ultra Rare Holo - Collectible Card - 1 Piece",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
