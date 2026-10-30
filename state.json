@@ -10,13 +10,6 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_30th_celebration_ex_box": {
-      "name": "Pokemon TCG 30th Celebration ex Box",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_5_pokemon___mega_evolution_ex_ultra_rare_card_lot___assorted": {
       "name": "5 Pokemon - Mega Evolution ex Ultra Rare Card Lot - Assorted Variety - No Duplicates",
       "price": "Price TBA",
@@ -26,13 +19,6 @@
     },
     "amazon_5_pokemon_ultra_rare_card_lot___v__gx__ex__assorted_variety_": {
       "name": "5 Pokemon Ultra Rare Card Lot - V, Gx, ex, Assorted Variety - No Duplicates",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon_tcg_30th_celebration_knock_out_collection": {
-      "name": "Pokemon TCG 30th Celebration Knock Out Collection",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -59,13 +45,6 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___portfolio_9pkt_mega_evolutions_2": {
-      "name": "Pokemon - Portfolio 9PKT Mega Evolutions 2",
-      "price": "Price TBA",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_pokemon_chasing_glory_csv10c_jumbo_display_chinese": {
       "name": "Pokemon Chasing Glory CSV10C Jumbo Display Chinese",
       "price": "121.",
@@ -73,8 +52,8 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_raichu_026_165___pikachu__pokemon_151___evolution_holo_rare_": {
-      "name": "Raichu 026/165 - Pikachu- Pokemon 151 - Evolution Holo Rare 2 Card Lot",
+    "amazon_pokemon___portfolio_9pkt_mega_evolutions_2": {
+      "name": "Pokemon - Portfolio 9PKT Mega Evolutions 2",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -90,6 +69,20 @@
     "amazon_200_card_set___pokemon_cards_german___original_pokemon_tradi": {
       "name": "200 Card Set - Pokemon Cards German - Original Pokemon Trading Cards Including 25 Holo/Reverse Holo + 100 Card Sleeves - TCG Bundle - Trading Cards Gift Box - Children & Collectors",
       "price": "60.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_raichu_026_165___pikachu__pokemon_151___evolution_holo_rare_": {
+      "name": "Raichu 026/165 - Pikachu- Pokemon 151 - Evolution Holo Rare 2 Card Lot",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_101_pokemon_cards_english___10_holo___reverse_holo___90_comm": {
+      "name": "101 Pokemon Cards English - 10 Holo & Reverse Holo + 90 Common and Uncommon + 1 Guaranteed Ultra Rare EX Gold V - Authentic Original Cards - Random Bulk Set for Collectors and Gift",
+      "price": "44.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -143,6 +136,13 @@
       "in_stock": true,
       "is_preorder": false
     },
+    "amazon_20_holo_cards_for_pokemon___trading_card_set_german___20_dif": {
+      "name": "20 Holo Cards for Pokemon - Trading Card Set German - 20 Different Holo Cards with Gift Box - Compatible with Pokemon Cards",
+      "price": "29.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
     "amazon_101_pokemon_cards_german_set_with_1_guaranteed_ex_card___aut": {
       "name": "101 Pokemon Cards German Set with 1 Guaranteed EX Card - Authentic Trading Cards - TCG Bundle - Children & Collectors - Card Pack in Megadrop Shipping Protection",
       "price": "39.",
@@ -153,13 +153,6 @@
     "amazon_pokemon_cards_set_of_100_german_original___trading_cards_pac": {
       "name": "Pokemon Cards Set of 100 German Original - Trading Cards Package with 10 Glitter Cards (Holo, Reverse Holo) and 90 Base Cards - Starter Collection for Children from 6 Years, Christmas",
       "price": "36.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_20_holo_cards_for_pokemon___trading_card_set_german___20_dif": {
-      "name": "20 Holo Cards for Pokemon - Trading Card Set German - 20 Different Holo Cards with Gift Box - Compatible with Pokemon Cards",
-      "price": "29.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -178,6 +171,13 @@
       "in_stock": true,
       "is_preorder": false
     },
+    "amazon_pokemon___charizard_v_018_159___crown_zenith___ultra_rare_ca": {
+      "name": "Pokemon - Charizard V 018/159 - Crown Zenith - Ultra Rare Card",
+      "price": "47.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
     "amazon_pokemon_cards_ex_v_random_japanese_version___ultra_rare_doub": {
       "name": "Pokemon Cards Ex/V Random Japanese Version - Ultra Rare/Double Rare - Official Japanese Version JP - Authentic TCG - Random Pok\u00e9mon Card for Collection and Gift",
       "price": "32.",
@@ -188,20 +188,6 @@
     "amazon_megadrop__51_pokemon_cards_german___45_normal___5_holo___1_e": {
       "name": "Megadrop\u2122 51 Pokemon Cards German - 45 Normal + 5 Holo + 1 EX Card",
       "price": "34.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon___charizard_v_018_159___crown_zenith___ultra_rare_ca": {
-      "name": "Pokemon - Charizard V 018/159 - Crown Zenith - Ultra Rare Card",
-      "price": "47.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_megadrop__50_pokemon_cards_english___5_guaranteed_holo_and_r": {
-      "name": "Megadrop\u2122 50 Pokemon Cards English - 5 Guaranteed Holo and Reverse Holo + 45 Normal and Unusual Cards - Original Trading Cards from English Booster Packs - Random Set as a Gift",
-      "price": "32.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -220,16 +206,23 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_50_original_pokemon_cards__german_including_10_holo_trading_": {
-      "name": "50 Original Pokemon Cards, German Including 10 Holo Trading Cards, Compatible with Pokemon 2026 Holo Rare and Rare Cards, German Card Set for Collecting and Playing",
-      "price": "31.",
+    "amazon_pokemon___mega_charizard_x_ex___013_094___me02__phantasmal_f": {
+      "name": "Pokemon - Mega Charizard X ex - 013/094 - ME02: Phantasmal Flames (PFL) - Double Rare - Single Card",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___mega_charizard_x_ex___013_094___me02__phantasmal_f": {
-      "name": "Pokemon - Mega Charizard X ex - 013/094 - ME02: Phantasmal Flames (PFL) - Double Rare - Single Card",
-      "price": "Price TBA",
+    "amazon_pokemon_scarlet___violet___paldea_evolved_single_sleeved_boo": {
+      "name": "Pokemon Scarlet & Violet - Paldea Evolved Single Sleeved Booster (One Booster Pack)",
+      "price": "62.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_megadrop__50_pokemon_cards_english___5_guaranteed_holo_and_r": {
+      "name": "Megadrop\u2122 50 Pokemon Cards English - 5 Guaranteed Holo and Reverse Holo + 45 Normal and Unusual Cards - Original Trading Cards from English Booster Packs - Random Set as a Gift",
+      "price": "32.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
