@@ -5,28 +5,28 @@
   "amazon": {
     "amazon_pokemon_tcg___50_card_assorted_lot_from_every_series__50_car": {
       "name": "Pokemon TCG - 50 Card Assorted Lot from Every Series, 50 Cards + 3 Rare Cards (53 Total)",
-      "price": "16.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_pokemon_tcg_mega_evolutions_6_delta_reign_elite_trainer_box": {
       "name": "Pokemon TCG Mega Evolutions 6 Delta Reign Elite Trainer Box",
-      "price": "184.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_pokemon_card_game_mega_high_class_pack_mega_dreamex_box": {
       "name": "Pokemon Card Game MEGA High Class Pack MEGA Dreamex Box",
-      "price": "164.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_pokemon_card_game_mega_expansion_pack_30th_celebration_box": {
       "name": "Pokemon Card Game MEGA Expansion Pack 30th Celebration Box",
-      "price": "268.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -38,79 +38,93 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_mega_evolutions_6_delta_reign_booster_bundles": {
-      "name": "Pokemon TCG Mega Evolutions 6 Delta Reign Booster Bundles",
-      "price": "99.",
+    "amazon_pokemon_tcg_mega_evolutions_6_delta_reign_three_packs": {
+      "name": "Pokemon TCG Mega Evolutions 6 Delta Reign Three Packs",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_mega_evolutions_6_delta_reign_three_packs": {
-      "name": "Pokemon TCG Mega Evolutions 6 Delta Reign Three Packs",
-      "price": "54.",
+    "amazon_pokemon_tcg_mega_evolutions_6_delta_reign_booster_bundles": {
+      "name": "Pokemon TCG Mega Evolutions 6 Delta Reign Booster Bundles",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_pokemon__100_assorted_card_bundle___with_foils_and_5_ultra_r": {
       "name": "Pokemon: 100 Assorted Card Bundle - with Foils and 5 Ultra Rare (V, GX, EX) Variety - Official Pokemon TCG Deck Box Included",
-      "price": "48.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_50__official_pokemon_cards_binder_collection_booster_box_wit": {
       "name": "50+ Official Pokemon Cards Binder Collection Booster Box with 5 Foils in Any Combination and at Least 1 Rarity, GX, EX, FA, Tag Team, Or Secret Rare, with Cards Like Charizard and Detective Pikachu",
-      "price": "17.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_pokemon_limited_edition_tcg__random_cards_from_every_series_": {
       "name": "Pokemon Limited Edition TCG: Random Cards from Every Series, 100 Cards in Each Lot",
-      "price": "20.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_pokemon_tcg_mega_evolutions_3_perfect_order_elite_trainer_bo": {
       "name": "Pokemon TCG Mega Evolutions 3 Perfect Order Elite Trainer Box",
-      "price": "164.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon_tcg_scarlet___violet_8_5_prismatic_evolutions_elite_": {
-      "name": "Pokemon TCG Scarlet & Violet 8.5 Prismatic Evolutions Elite Trainer Box",
-      "price": "289.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon_tcg_mega_evolutions_4_elite_trainer_box": {
-      "name": "Pokemon TCG Mega Evolutions 4 Elite Trainer Box",
-      "price": "159.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_pokemon_tcg_mega_evolutions_4_booster_bundles": {
       "name": "Pokemon TCG Mega Evolutions 4 Booster Bundles",
-      "price": "89.",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_card_game_mega_expansion_pack_storm_emerald_box": {
+      "name": "Pokemon Card Game MEGA Expansion Pack Storm Emerald Box",
+      "price": "129.",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg_mega_evolutions_6_delta_reign_boosters": {
+      "name": "Pokemon TCG Mega Evolutions 6 Delta Reign Boosters",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg_mega_evolutions_4_elite_trainer_box": {
+      "name": "Pokemon TCG Mega Evolutions 4 Elite Trainer Box",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg_scarlet___violet_8_5_prismatic_evolutions_elite_": {
+      "name": "Pokemon TCG Scarlet & Violet 8.5 Prismatic Evolutions Elite Trainer Box",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_pokemon_tcg_me2_5_ascended_heroes_booster_bundle": {
       "name": "Pokemon TCG ME2.5 Ascended Heroes Booster Bundle",
-      "price": "189.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_scarlet___violet_10_destined_rivals_elite_traine": {
-      "name": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Elite Trainer Box",
-      "price": "259.",
+    "amazon_pokemon_tcg_mega_evolutions_3_perfect_order_booster_bundles": {
+      "name": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster Bundles",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -122,23 +136,37 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_scarlet___violet_8_5_prismatic_evolutions_booste": {
-      "name": "Pokemon TCG Scarlet & Violet 8.5 Prismatic Evolutions Booster Bundle",
-      "price": "204.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon_tcg_me2_5_ascended_heroes_heavy_hitters": {
-      "name": "Pokemon TCG ME2.5 Ascended Heroes Heavy Hitters",
-      "price": "289.",
+    "amazon_pokemon_tcg_scarlet___violet_10_destined_rivals_elite_traine": {
+      "name": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Elite Trainer Box",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_pokemon_trading_card_game_tcg___mega_evolution__ascended_her": {
       "name": "Pokemon Trading Card Game TCG - Mega Evolution: Ascended Heroes 10-Card Booster Pack (English)",
-      "price": "34.",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg_me2_5_ascended_heroes_heavy_hitters": {
+      "name": "Pokemon TCG ME2.5 Ascended Heroes Heavy Hitters",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg_scarlet___violet_8_5_prismatic_evolutions_booste": {
+      "name": "Pokemon TCG Scarlet & Violet 8.5 Prismatic Evolutions Booster Bundle",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg_terastal_gathering_csv9_5c_booster_box__chinese_": {
+      "name": "Pokemon TCG Terastal Gathering CSV9.5C Booster Box (Chinese) -10 Packs",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -150,20 +178,6 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_terastal_gathering_csv9_5c_booster_box__chinese_": {
-      "name": "Pokemon TCG Terastal Gathering CSV9.5C Booster Box (Chinese) -10 Packs",
-      "price": "109.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon_tcg_30th_celebration_mini_tin": {
-      "name": "Pokemon TCG 30th Celebration Mini Tin",
-      "price": "59.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_5_pokemon___mega_evolution_ex_ultra_rare_card_lot___assorted": {
       "name": "5 Pokemon - Mega Evolution ex Ultra Rare Card Lot - Assorted Variety - No Duplicates",
       "price": "17.",
@@ -171,15 +185,36 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon___gem_pack_vol_2__all_foil_eevee_set____chinese_simp": {
-      "name": "Pokemon \u2013 Gem Pack Vol.2 (All Foil Eevee Set) \u2013 Chinese Simplified \u2013 Slim Booster Box \u2013 (15 Packs - 4 Cards per Pack) \u2013 Chinese Language",
-      "price": "124.",
+    "amazon_pokemon_tcg_30th_celebration_battle_deck": {
+      "name": "Pokemon TCG 30th Celebration Battle Deck",
+      "price": "96.",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_card_game_scarlet___violet_mega_premium_trainer_box_": {
-      "name": "Pokemon Card Game Scarlet & Violet Mega Premium Trainer Box (Japanese)",
+    "amazon_pokemon_cards___50_card_assorted_lot_with_guaranteed_v_pokem": {
+      "name": "Pokemon Cards - 50 Card Assorted Lot with Guaranteed V Pokemon",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg__mega_charizard_x_ex_ultra_premium_collection": {
+      "name": "Pokemon TCG: Mega Charizard X ex Ultra Premium Collection",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon___gem_pack_vol_2__all_foil_eevee_set____chinese_simp": {
+      "name": "Pokemon \u2013 Gem Pack Vol.2 (All Foil Eevee Set) \u2013 Chinese Simplified \u2013 Slim Booster Box \u2013 (15 Packs - 4 Cards per Pack) \u2013 Chinese Language",
+      "price": "Price TBA",
+      "url": "",
+      "in_stock": true,
+      "is_preorder": false
+    },
+    "amazon_pokemon_tcg_30th_celebration_mini_tin": {
+      "name": "Pokemon TCG 30th Celebration Mini Tin",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
@@ -187,14 +222,7 @@
     },
     "amazon_pokemon_tcg_scarlet___violet_10_destined_rivals_booster_bund": {
       "name": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Booster Bundle",
-      "price": "155.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon_cards___50_card_assorted_lot_with_guaranteed_v_pokem": {
-      "name": "Pokemon Cards - 50 Card Assorted Lot with Guaranteed V Pokemon",
-      "price": "18.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -206,23 +234,16 @@
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg__mega_charizard_x_ex_ultra_premium_collection": {
-      "name": "Pokemon TCG: Mega Charizard X ex Ultra Premium Collection",
-      "price": "418.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
     "amazon_pokemon_tcg__pok\u00e9mon_day_2026_collection": {
       "name": "Pokemon TCG: Pok\u00e9mon Day 2026 Collection",
-      "price": "120.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
-    "amazon_pokemon_tcg_mega_evolutions_3_perfect_order_booster_bundles": {
-      "name": "Pokemon TCG Mega Evolutions 3 Perfect Order Booster Bundles",
-      "price": "89.",
+    "amazon_pokemon_card_game_scarlet___violet_mega_premium_trainer_box_": {
+      "name": "Pokemon Card Game Scarlet & Violet Mega Premium Trainer Box (Japanese)",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
@@ -236,20 +257,13 @@
     },
     "amazon_pokemon_tcg__mega_evolution___pitch_black_sleeved_booster_pa": {
       "name": "Pokemon TCG: Mega Evolution - Pitch Black Sleeved Booster Pack",
-      "price": "19.",
+      "price": "Price TBA",
       "url": "",
       "in_stock": true,
       "is_preorder": false
     },
     "amazon_pokemon_tcg__scarlet___violet_prismatic_evolutions_booster_p": {
       "name": "Pokemon TCG: Scarlet & Violet Prismatic Evolutions Booster Pack (Random Art) - 10 Cards",
-      "price": "39.",
-      "url": "",
-      "in_stock": true,
-      "is_preorder": false
-    },
-    "amazon_pokemon_tcg_mega_evolutions_5_pitch_black_booster": {
-      "name": "Pokemon TCG Mega Evolutions 5 Pitch Black Booster",
       "price": "Price TBA",
       "url": "",
       "in_stock": true,
